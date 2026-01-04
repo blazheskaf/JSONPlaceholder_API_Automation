@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6c46966-4a81-4575-ae6e-12027165f00b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="34OZyrA9MAm8twRqitawuEzgTk3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.JsonPlacePUTTest.updatePostDefaultValues.executor": "Run",
+    "JUnit.JsonPlaceTest.deletePostTest.executor": "Run",
+    "JUnit.JsonPlaceTest.getAllPostsTest.executor": "Run",
+    "JUnit.JsonPlaceTest.getSinglePostTest.executor": "Run",
+    "JUnit.JsonPlaceTest.postPostCustomValuesTest.executor": "Run",
+    "JUnit.JsonPlaceTest.postPostDefaultHealthCheckTest.executor": "Run",
+    "JUnit.JsonPlaceTest.putPostCustomValuesTest.executor": "Run",
+    "JUnit.JsonPlaceTest.putPostDefaultValuesHealthCheckTest.executor": "Run",
+    "JUnit.JsonPlaceTest.updatePostDefaultValues.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/blaze/IdeaProjects/untitled/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.JsonPlaceTest.deletePostTest">
+    <configuration name="JsonPlaceTest.deletePostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSONPLACE_Automatisation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JsonPlaceTest" />
+      <option name="METHOD_NAME" value="deletePostTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonPlaceTest.getAllPostsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSONPLACE_Automatisation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JsonPlaceTest" />
+      <option name="METHOD_NAME" value="getAllPostsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonPlaceTest.getSinglePostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSONPLACE_Automatisation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JsonPlaceTest" />
+      <option name="METHOD_NAME" value="getSinglePostTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonPlaceTest.putPostCustomValuesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSONPLACE_Automatisation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JsonPlaceTest" />
+      <option name="METHOD_NAME" value="putPostCustomValuesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonPlaceTest.putPostDefaultValuesHealthCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSONPLACE_Automatisation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JsonPlaceTest" />
+      <option name="METHOD_NAME" value="putPostDefaultValuesHealthCheckTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JsonPlaceTest.deletePostTest" />
+        <item itemvalue="JUnit.JsonPlaceTest.getSinglePostTest" />
+        <item itemvalue="JUnit.JsonPlaceTest.getAllPostsTest" />
+        <item itemvalue="JUnit.JsonPlaceTest.putPostCustomValuesTest" />
+        <item itemvalue="JUnit.JsonPlaceTest.putPostDefaultValuesHealthCheckTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c46966-4a81-4575-ae6e-12027165f00b" name="Changes" comment="" />
+      <created>1761086835969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761086835969</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
