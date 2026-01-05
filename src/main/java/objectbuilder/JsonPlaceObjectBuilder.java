@@ -1,9 +1,6 @@
 package objectbuilder;
 import models.request.JsonRequestModelPOSTPUT;
 
-
-//tuka ke zadadam default vrednosti na title i body
-
 public class JsonPlaceObjectBuilder {
     public static JsonRequestModelPOSTPUT creatingBody() {
         return JsonRequestModelPOSTPUT.builder()
